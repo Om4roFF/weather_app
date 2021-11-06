@@ -1,0 +1,22 @@
+{
+  "current_location": "Current location: ",
+  "days": "Days",
+  "hours": "Hours",
+  "week": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "avg_temp": "Average Temperature: ",
+  "min_temp": "Min Temperature: ",
+  "max_temp": "Min Temperature: ",
+  "max_wind": "Maximum Wind speed:",
+  "feels_like": "Feels like: ",
+  "heat_index": "Heat index in celcius: ",
+  "windchill_temp": "Windchill temperature in celcius: ",
+  "error": "Error!"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376115741664",
+    "project_id": "weather-task-pro-area",
+    "storage_bucket": "weather-task-pro-area.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376115741664:android:f749e6473b2c6113892185",
+        "android_client_info": {
+          "package_name": "com.wheather.app.wheather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376115741664-t0vshejsb6i069mraavdsfoa7347qdsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wheather.app.wheather_app",
+            "certificate_hash": "fc311ef8a82f0eb90735b8cf96b401549f784630"
+          }
+        },
+        {
+          "client_id": "376115741664-7sgft5ojrd7gi6hjq2idd3q3am2a6f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBr6W9db00pKfxuDOrwCjA-zWE-ML0SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376115741664-7sgft5ojrd7gi6hjq2idd3q3am2a6f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
